@@ -10,3 +10,10 @@ closed for more than a certain period of time, the driver is said to be drowsy
 and an alarm is sounded.
 - The programming is done in python language and Open CV using the dlib
 library for the detection of facial features
+
+
+
+
+
+# Execution
+python Main.py -p shape_predictor_68_face_landmarks.dat -alarm Alert.mp3
